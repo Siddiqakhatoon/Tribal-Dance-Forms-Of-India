@@ -37,4 +37,4 @@ Hovering over a state displays information about its famous tribal dance, and cl
 ---
 
 ## Author
-*Star*
+*Siddiqa khatoon*
